@@ -5,3 +5,5 @@ Source data
 2. [Viminale*](https://www.interno.gov.it/it/search?search_fulltext=ucraina) (*In collaboration with [Carlo Campa](https://twitter.com/CarloCampa))
   
 - <b>Russia's losses</b>: [The Kyiv Independent](https://twitter.com/KyivIndependent)
+
+- <b>Victims</b>: [Ukraine crisis media center](https://uacrisis.org/en/)
