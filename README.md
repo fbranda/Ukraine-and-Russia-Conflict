@@ -6,4 +6,3 @@ Source data
   
 - <b>Russia's losses</b>: [The Kyiv Independent](https://twitter.com/KyivIndependent)
 
-- <b>Victims</b>: [Ukraine crisis media center](https://uacrisis.org/en/)
