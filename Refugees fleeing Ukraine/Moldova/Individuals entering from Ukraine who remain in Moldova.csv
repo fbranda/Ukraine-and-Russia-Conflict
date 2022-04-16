@@ -1,36 +1,3 @@
-Nationality;Gender;%;Age group;%
-Ukrainian Refugees;Females;64,99;Adult;50,01
-Ukrainian Refugees;Males;35,01;Children;49,99
-Third-Country Nationals;Females;37,55;Adult;78,93
-Third-Country Nationals;Males;62,45;Children;21,07
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Nationality;Total;% Females;% Males;% Adult;% Child
+Ukrainian Refugees;97609;64,93%;35,07%;49,93%;50,07%
+Third-Country Nationals;3722;37,45%;62,55%;78,75%;21,25%
